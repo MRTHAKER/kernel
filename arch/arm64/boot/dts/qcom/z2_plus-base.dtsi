@@ -95,7 +95,7 @@
 	};
 };
 
-&pmi8994_fg {
+&qpnp_fg {
 	qcom,fg-iterm-ma = <125>;
 };
 
